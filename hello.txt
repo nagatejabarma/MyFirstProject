@@ -1,0 +1,11 @@
+Hello GitHub!
+
+My name is Naga Teja Sree.
+This is my first GitHub repository.
+
+I am learning:
+- Git
+- GitHub
+- Version Control
+
+Thank you GitHub!
